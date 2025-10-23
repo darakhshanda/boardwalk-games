@@ -5,6 +5,9 @@
   --primary-font: "Inter", sans-serif;
   --secondary-font: "Macondo", cursive;
   --primary-color: #416a8e; /*blue*/
+  --secondary-color: #aa9581;
+  --highlight-color: #416a8e;
+  --light-highlight-color: #7a9fc2;
 }
 body {
   font-family: var(--primary-font);
@@ -14,4 +17,7 @@ h2,
 h3 {
   font-family: var(--secondary-font);
   color: var(--primary-color);
+}
+.sub-heading-color {
+  color: var(--highlight-color);
 }
