@@ -58,6 +58,17 @@ header .lead {
   margin-top: 2rem;
   margin-top: 2rem;
 }
+/* new game and favourites section */
+#new-games .container,
+#fav-games .container {
+  background-color: white;
+}
+
+#fav-games .card,
+#new-games .card {
+  background-color: transparent;
+  border-style: none;
+}
 
 /* Media queries */
 
