@@ -35,3 +35,11 @@ h3 {
 #navbar .logo {
   width: 30px;
 }
+/* Header*/
+header .lead {
+  font-family: var(--secondary-font);
+}
+.section {
+  margin-top: 2rem;
+  margin-top: 2rem;
+}
