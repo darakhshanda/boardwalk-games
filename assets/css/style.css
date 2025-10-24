@@ -43,3 +43,6 @@ header .lead {
   margin-top: 2rem;
   margin-top: 2rem;
 }
+#services .card-text {
+  min-height: 120px;
+}
