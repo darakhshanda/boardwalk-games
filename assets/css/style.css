@@ -18,6 +18,9 @@ h3 {
   font-family: var(--secondary-font);
   color: var(--primary-color);
 }
+h2 {
+  margin: 2rem;
+}
 .sub-heading-color {
   color: var(--highlight-color);
 }
