@@ -59,8 +59,9 @@ header .lead {
   margin-top: 2rem;
 }
 /* new game and favourites section */
-#new-games .container,
-#fav-games .container {
+#new-games .col-12,
+#fav-games .col-12 {
+  border: 0px none white;
   background-color: white;
 }
 
