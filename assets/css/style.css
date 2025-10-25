@@ -84,6 +84,9 @@ header .lead {
 #contact .social-links i:hover {
   color: var(--secondary-color);
 }
+#contact .table-dark * {
+  background-color: transparent;
+}
 /* Media queries */
 
 /* Medium devices (tablets, 768px and up)  bang on*/
