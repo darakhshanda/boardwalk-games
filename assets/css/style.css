@@ -109,6 +109,15 @@ header .lead {
   background-color: var(--highlight-color);
   color: white;
 }
+/* student discount heading */
+.custom-text {
+  background-color: var(--highlight-color);
+  color: white;
+  height: 30px;
+  text-align: center;
+  font-size: large;
+}
+
 /* Media queries */
 
 /* Medium devices (tablets, 768px and up)  bang on*/
