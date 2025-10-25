@@ -87,6 +87,28 @@ header .lead {
 #contact .table-dark * {
   background-color: transparent;
 }
+/* custom style for buttons */
+.custom-button-filled {
+  border: 2px solid var(--highlight-color);
+  background-color: var(--highlight-color);
+  color: white;
+}
+/* custom style for hover over buttons */
+.custom-button-filled:hover {
+  border: 2px solid var(--secondary-color);
+  background-color: var(--secondary-color);
+  color: white;
+}
+.custom-button-outline {
+  border: 3px solid var(--highlight-color);
+  background-color: transparent;
+  color: var(--highlight-color);
+  padding: 7px, 25px;
+}
+.custom-button-outline:hover {
+  background-color: var(--highlight-color);
+  color: white;
+}
 /* Media queries */
 
 /* Medium devices (tablets, 768px and up)  bang on*/
