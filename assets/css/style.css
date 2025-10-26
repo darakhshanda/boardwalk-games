@@ -103,7 +103,7 @@ h2 {
   border: 3px solid var(--highlight-color);
   background-color: transparent;
   color: var(--highlight-color);
-  padding: 7px, 25px;
+  padding: 7px 25px;
 }
 .custom-button-outline:hover {
   background-color: var(--highlight-color);
