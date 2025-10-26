@@ -110,13 +110,16 @@ header .lead {
   color: white;
 }
 /* student discount heading */
-.custom-text {
+
+.student-discount {
   background-color: var(--highlight-color);
+  font-weight: bold;
   color: white;
-  height: 30px;
-  text-align: center;
-  font-size: large;
-  width: 320px;
+  display: block;
+  max-width: 300px;
+  margin: auto;
+  padding: 5px 10px;
+  font-size: 0.8rem;
 }
 
 /* Media queries */
