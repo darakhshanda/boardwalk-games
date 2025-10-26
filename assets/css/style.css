@@ -49,8 +49,7 @@ header .lead {
   font-family: var(--secondary-font);
 }
 .section {
-  margin-top: 2rem;
-  margin-top: 2rem;
+  padding-top: 4rem;
 }
 /* new game and favourites section */
 #new-games .col-12,
