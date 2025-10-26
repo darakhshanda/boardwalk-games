@@ -116,6 +116,7 @@ header .lead {
   height: 30px;
   text-align: center;
   font-size: large;
+  width: 320px;
 }
 
 /* Media queries */
